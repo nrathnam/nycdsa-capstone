@@ -5,27 +5,27 @@ NYC DSA Capstone Project
 --------------------------------------------------------------------------------------------------------
 		Task
 		--------------------------------------------------------------------------------------------
-ALL		Learn about hyperparamter optimizer - need to choose best tool
-		Install and try to run simple Theano/Keras - report out if it works or not
-		Ensure you can run single model code base and know how to use the modeler
+ALL		[ ] Learn about hyperparamter optimizer - need to choose best tool - by 9/5
+		[ ] Install and try to run simple Theano/Keras - report out if it works or not - by 9/5
+		[ ] Ensure you can run single model code base and know how to use the modeler - by 9/5
 			
-Bernard		Formulate the strategy and architecture
-		Do test runs of Theano/Keras through Nvidia GPU CUDA interface
-		Optimize and document Deep Learning hyperparameters
-		Write up Agile project plan
+Bernard		[ ] Formulate the strategy and architecture - by 9/5
+		[ ] Do test runs of Theano/Keras through Nvidia GPU CUDA interface - by 9/5
+		[ ] Optimize and document Deep Learning hyperparameters - by 9/5
+		[ ] Write up Agile project plan - by 9/5
 			
-Emma		Enhance Python EDA code to generize for general reuse (partner dev with Trinity)
-		Learn and enhance single model code (partner dev with Trinity)
-		Formulate strategy for Visualization and UX (work with Bernard)
+Emma		[ ] Enhance Python EDA code to generize for general reuse (partner dev with Trinity) - by 9/6
+		[ ] Learn and enhance single model code (partner dev with Trinity) - by 9/5
+		[ ] Formulate strategy for Visualization and UX (work with Bernard) - by 9/9
 
-Nanda		Enhance ensemble/stacking code for all models (partner dev with Bernard)
-		Enhance code to account for ensemble model parameterized random seeder
-		Investigate integration of stacking pipeline with deep learning (partner dev Bernard)
+Nanda		[ ] Enhance ensemble/stacking code for all models (partner dev with Bernard) - by 9/7
+		[ ] Enhance code to account for ensemble model parameterized random seeder - by 9/5
+		[ ] Investigate integration of stacking pipeline with deep learning (partner dev Bernard)  - by 9/9
 
-Trinity		Create generized EDA utility using R (partner dev with Venkat)
-		Start formulating project template for info, progress, accomplishment (work with Bernard)
-		Create hyperperparameter optimizer tool (partner dev with Bernard)
+Trinity		[ ] Create generized EDA utility using R (partner dev with Venkat) - by 9/6
+		[ ] Start formulating project template for info, progress, accomplishment (work with Bernard) - by 9/5
+		[ ] Create hyperperparameter optimizer tool (partner dev with Bernard) - by 9/7
 
-Venkat		Create the Python imputation function for Knn and Interpolation (partner dev with Trinity)
+Venkat		[ ] Create the Python imputation function for Knn and Interpolation (partner dev with Trinity) - by 9/5
 
 <end>
