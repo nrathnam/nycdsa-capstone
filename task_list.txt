@@ -3,27 +3,28 @@ NYC DSA Capstone Project
 --------------------------------------------------------------------------------------------------------
 2016-09-01 
 --------------------------------------------------------------------------------------------------------
-			Task
-			--------------------------------------------------------------------------------------------
-ALL			Learn about hyperparamter optimizer - need to choose best tool
-			Install and try to run simple Theano/Keras - report out if it works or not
-			Ensure you can run single model code base and know how to use the modeler
+		Task
+		--------------------------------------------------------------------------------------------
+ALL		Learn about hyperparamter optimizer - need to choose best tool
+		Install and try to run simple Theano/Keras - report out if it works or not
+		Ensure you can run single model code base and know how to use the modeler
 			
 Bernard		Formulate the strategy and architecture
-			Do test runs of Theano/Keras through Nvidia GPU CUDA interface
-			Optimize and document Deep Learning hyperparameters
-			Write up Agile project plan
+		Do test runs of Theano/Keras through Nvidia GPU CUDA interface
+		Optimize and document Deep Learning hyperparameters
+		Write up Agile project plan
 			
 Emma		Enhance Python EDA code to generize for general reuse (partner dev with Trinity)
-			Learn and enhance single model code (partner dev with Trinity)
-			Formulate strategy for Visualization and UX (work with Bernard)
+		Learn and enhance single model code (partner dev with Trinity)
+		Formulate strategy for Visualization and UX (work with Bernard)
 
 Nanda		Enhance ensemble/stacking code for all models (partner dev with Bernard)
-			Enhance code to account for ensemble model parameterized random seeder
-			Investigate integration of stacking pipeline with deep learning (partner dev Bernard)
+		Enhance code to account for ensemble model parameterized random seeder
+		Investigate integration of stacking pipeline with deep learning (partner dev Bernard)
 
 Trinity		Create generized EDA utility using R (partner dev with Venkat)
-			Start formulating project template for info, progress, accomplishment (work with Bernard)
+		Start formulating project template for info, progress, accomplishment (work with Bernard)
+		Create hyperperparameter optimizer tool (partner dev with Bernard)
 
 Venkat		Create the Python imputation function for Knn and Interpolation (partner dev with Trinity)
 
