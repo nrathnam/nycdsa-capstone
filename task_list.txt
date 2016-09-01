@@ -1,0 +1,22 @@
+NYC DSA Capstone Project
+
+------------------------------------------------------------
+2016-09-01 
+------------------------------------------------------------
+
+			Task
+			------------------------------------------------
+ALL			Learn about hyperparamter optimizer - need to choose best tool
+			Install and try to run simple Theano/Keras - report out if it works or not
+			
+Bernard				
+
+Emma		Enhance Python EDA code to generize for general reuse (partner dev with Trinity)
+			Learn and enhance single model code (partner dev with Trinity)
+
+Nanda		Enhance ensemble/staking code for all models (partner dev with Bernard)
+
+Trinity		Create generized EDA utility using R (partner dev with Venkat)
+
+Venkat		Create the Python imputation function for Knn and Interpolation (partner dev with Trinity)
+
