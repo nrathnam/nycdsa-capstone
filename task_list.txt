@@ -1,31 +1,58 @@
 NYC DSA Capstone Project
 
+Goal: To Surpass Top Private LB Score with Most Accurate Predictive Model
+
+Guidelines:
+1. Fail fast. Do not dwell on a task for too long. If you're having difficulty, ask for help or support.
+2. Please do not share any competitive info we have (plan, strategy, technology) with other teams during capstone.
+3. Check this task list sheet frequently. Mark off your task with an "X" when you're done.
+4. Focus on our goal, and get things done quickly and efficiently.
+5. Shoot for the most simple but sophisticated approach. Some hacking ok, but don't go overboard.
+6. You can use the iPython notebook for quick testing, but your final code format should be in PY format.
+
+--------------------------------------------------------------------------------------------------------
+2016-09-02
+--------------------------------------------------------------------------------------------------------
+		Task
+		--------------------------------------------------------------------------------------------
+Emma		[ ] Implement AUC (and RMSE as a contingent checker) for our local scoring (partner dev Nanda) - by 9/8
+		[ ] Start doing preliminary EDA on dataset in Python (compare results with Trin) - by 9/6
+
+Nanda		[ ] Bake in AUC and RMSE function from Emma to the emsemble and stacking code - by 9/8
+
+Trinity		[ ] Start doing preliminary EDA on dataset in R (compare results with Emma - by 9/6
+
 --------------------------------------------------------------------------------------------------------
 2016-09-01 
 --------------------------------------------------------------------------------------------------------
 		Task
 		--------------------------------------------------------------------------------------------
-ALL		[ ] Learn about hyperparamter optimizer - need to choose best tool - by 9/5
-		[ ] Install and try to run simple Theano/Keras - report out if it works or not - by 9/5
-		[ ] Ensure you can run single model code base and know how to use the modeler - by 9/5
-			
 Bernard		[ ] Formulate the strategy and architecture - by 9/5
 		[ ] Do test runs of Theano/Keras through Nvidia GPU CUDA interface - by 9/5
 		[ ] Optimize and document Deep Learning hyperparameters - by 9/5
 		[ ] Write up Agile project plan - by 9/5
-			
+		[ ] Learn about hyperparamter optimizer - need to choose best tool - by 9/5
+
 Emma		[ ] Enhance Python EDA code to generize for general reuse (partner dev with Trinity) - by 9/6
 		[ ] Learn and enhance single model code (partner dev with Trinity) - by 9/5
 		[ ] Formulate strategy for Visualization and UX (work with Bernard) - by 9/9
+		[ ] Learn about hyperparamter optimizer - need to choose best tool - by 9/5
+		[ ] Install and try to run simple Theano/Keras - report out if it works or not - by 9/5
+		[ ] Ensure you can run single model code base and know how to use the modeler - by 9/5
 
 Nanda		[ ] Enhance ensemble/stacking code for all models (partner dev with Bernard) - by 9/7
 		[ ] Enhance code to account for ensemble model parameterized random seeder - by 9/5
 		[ ] Investigate integration of stacking pipeline with deep learning (partner dev Bernard)  - by 9/9
+		[ ] Learn about hyperparamter optimizer - need to choose best tool - by 9/5
+		[ ] Install and try to run simple Theano/Keras - report out if it works or not - by 9/5
 
 Trinity		[ ] Create generized EDA utility using R (partner dev with Venkat) - by 9/6
 		[ ] Start formulating project template for info, progress, accomplishment (work with Bernard) - by 9/5
 		[ ] Create hyperperparameter optimizer tool (partner dev with Bernard) - by 9/7
-
+		[ ] Learn about hyperparamter optimizer - need to choose best tool - by 9/5
+		[ ] Install and try to run simple Theano/Keras - report out if it works or not - by 9/5
+		[ ] Ensure you can run single model code base and know how to use the modeler - by 9/5
+		
 Venkat		[ ] Create the Python imputation function for Knn and Interpolation (partner dev with Trinity) - by 9/5
 
 <end>
