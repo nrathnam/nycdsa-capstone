@@ -6,7 +6,7 @@ Guidelines:
 1. Fail fast. Do not dwell on a task for too long. If you're having difficulty, ask for help or support.
 2. Please do not share any competitive info we have (plan, strategy, technology) with other teams during capstone.
 3. Check this task list sheet frequently. Mark off your task with an "X" when you're done.
-4. Focus on our goal, and get things done quickly and efficiently.
+4. Focus on our main goal, and get things done quickly and efficiently.
 5. Shoot for the most simple but sophisticated approach. Some hacking ok, but don't go overboard.
 6. You can use the iPython notebook for quick testing, but your final code format should be in PY format.
 
@@ -21,6 +21,7 @@ Emma		[ ] Implement AUC (and RMSE as a contingent checker) for our local scoring
 Nanda		[ ] Bake in AUC and RMSE function from Emma to the emsemble and stacking code - by 9/8
 
 Trinity		[ ] Start doing preliminary EDA on dataset in R (compare results with Emma - by 9/6
+		[ ] Create the Python imputation function for Knn and Interpolation (partner dev with Bernard) - by 9/7
 
 --------------------------------------------------------------------------------------------------------
 2016-09-01 
@@ -52,7 +53,4 @@ Trinity		[ ] Create generized EDA utility using R (partner dev with Venkat) - by
 		[ ] Learn about hyperparamter optimizer - need to choose best tool - by 9/5
 		[ ] Install and try to run simple Theano/Keras - report out if it works or not - by 9/5
 		[ ] Ensure you can run single model code base and know how to use the modeler - by 9/5
-		
-Venkat		[ ] Create the Python imputation function for Knn and Interpolation (partner dev with Trinity) - by 9/5
-
 <end>
