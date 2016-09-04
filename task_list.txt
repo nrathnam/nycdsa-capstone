@@ -29,6 +29,7 @@ Trinity		[ ] Start doing preliminary EDA on dataset in R (compare results with E
 		Task
 		--------------------------------------------------------------------------------------------
 Bernard		[ ] Formulate the strategy and architecture - by 9/5
+		[X] Enhance code to account for ensemble model parameterized random seeder - by 9/5
 		[ ] Do test runs of Theano/Keras through Nvidia GPU CUDA interface - by 9/5
 		[ ] Optimize and document Deep Learning hyperparameters - by 9/5
 		[ ] Write up Agile project plan - by 9/5
@@ -42,7 +43,6 @@ Emma		[ ] Enhance Python EDA code to generize for general reuse (partner dev wit
 		[ ] Ensure you can run single model code base and know how to use the modeler - by 9/5
 
 Nanda		[ ] Enhance ensemble/stacking code for all models (partner dev with Bernard) - by 9/7
-		[ ] Enhance code to account for ensemble model parameterized random seeder - by 9/5
 		[ ] Investigate integration of stacking pipeline with deep learning (partner dev Bernard)  - by 9/9
 		[ ] Learn about hyperparamter optimizer - need to choose best tool - by 9/5
 		[ ] Install and try to run simple Theano/Keras - report out if it works or not - by 9/5
