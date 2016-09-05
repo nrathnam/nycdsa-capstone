@@ -11,6 +11,56 @@ Guidelines:
 6. You can use the iPython notebook for quick testing, but your final code format should be in PY format.
 
 --------------------------------------------------------------------------------------------------------
+2016-09-18
+--------------------------------------------------------------------------------------------------------
+		Task
+		--------------------------------------------------------------------------------------------
+All		[ ] Finalize and document all testing results
+		[ ] Review final presentation deck and content
+		[ 2x a day meeting for Sat/Sun to review final materials
+
+--------------------------------------------------------------------------------------------------------
+2016-09-14
+--------------------------------------------------------------------------------------------------------
+		Task
+		--------------------------------------------------------------------------------------------
+All		[ ] Start finalizing presentation content
+
+--------------------------------------------------------------------------------------------------------
+2016-09-12
+--------------------------------------------------------------------------------------------------------
+		Task
+		--------------------------------------------------------------------------------------------
+All 		[ ] Start documenting all model test results
+
+Bernard		[ ] Start compiling and documenting presentation deck
+
+--------------------------------------------------------------------------------------------------------
+2016-09-10
+--------------------------------------------------------------------------------------------------------
+		Task
+		--------------------------------------------------------------------------------------------
+Trinity		[ ] Start testing using single model
+Emma		[ ] Start testing with single model
+Nanda		[ ] Start testing with ensemble/stack
+Bernard		[ ] Start testing with Keras Deep Learning
+
+--------------------------------------------------------------------------------------------------------
+2016-09-06
+--------------------------------------------------------------------------------------------------------
+		Task
+		--------------------------------------------------------------------------------------------
+Bernard		[ ] Optimize and document Deep Learning hyperparameters - by 9/9
+		[ ] Writing Keras Deep Learning code for Consumer Debt
+		[ ] Inject hyperopt framework into the Keras Deep Learning code
+		[ ] Enhance with random seeder on all code
+		[ ] Formulate the strategy and architecture - by 9/8
+		
+Nanda		[ ] Writing ensemble/stacking code for Consumer Debt
+		[ ] Inject hyperopt framework into ensemble/stacking code
+		[ ] Genericize ensemble/stacking based on Emma/Trinity's enhancements
+
+--------------------------------------------------------------------------------------------------------
 2016-09-02
 --------------------------------------------------------------------------------------------------------
 		Task
@@ -28,12 +78,11 @@ Trinity		[ ] Start doing preliminary EDA on dataset in R (compare results with E
 --------------------------------------------------------------------------------------------------------
 		Task
 		--------------------------------------------------------------------------------------------
-Bernard		[ ] Formulate the strategy and architecture - by 9/5
-		[X] Enhance code to account for ensemble model parameterized random seeder - by 9/5
-		[ ] Do test runs of Theano/Keras through Nvidia GPU CUDA interface - by 9/5
-		[ ] Optimize and document Deep Learning hyperparameters - by 9/5
-		[ ] Write up Agile project plan - by 9/5
-		[ ] Learn about hyperparamter optimizer - need to choose best tool - by 9/5
+Bernard		[X] Enhance code to account for ensemble model parameterized random seeder - by 9/5
+		[X] Do test runs of Theano/Keras through Nvidia GPU CUDA interface - by 9/5
+		[X] Configure GPU to use cuDNN primitives and cnMEM memory manager for high performance - by 9/5
+		[X] Formulate Agile project plan - by 9/5
+		[X] Learn about hyperparamter optimizer - need to choose best tool - by 9/5
 
 Emma		[ ] Enhance Python EDA code to generize for general reuse (partner dev with Trinity) - by 9/6
 		[ ] Learn and enhance single model code (partner dev with Trinity) - by 9/5
@@ -42,9 +91,8 @@ Emma		[ ] Enhance Python EDA code to generize for general reuse (partner dev wit
 		[ ] Install and try to run simple Theano/Keras - report out if it works or not - by 9/5
 		[ ] Ensure you can run single model code base and know how to use the modeler - by 9/5
 
-Nanda		[ ] Enhance ensemble/stacking code for all models (partner dev with Bernard) - by 9/7
-		[ ] Investigate integration of stacking pipeline with deep learning (partner dev Bernard)  - by 9/9
-		[ ] Learn about hyperparamter optimizer - need to choose best tool - by 9/5
+Nanda		[ ] Investigate integration of stacking pipeline with deep learning (partner dev Bernard)  - by 9/9
+		[X] Learn about hyperparamter optimizer - need to choose best tool - by 9/5
 		[ ] Install and try to run simple Theano/Keras - report out if it works or not - by 9/5
 
 Trinity		[ ] Create generized EDA utility using R (partner dev with Venkat) - by 9/6
