@@ -88,8 +88,8 @@ Emma		[ ] Enhance Python EDA code to generize for general reuse (partner dev wit
 		[ ] Learn and enhance single model code (partner dev with Trinity) - by 9/5
 		[ ] Formulate strategy for Visualization and UX (work with Bernard) - by 9/9
 		[ ] Learn about hyperparamter optimizer - need to choose best tool - by 9/5
-		[ ] Install and try to run simple Theano/Keras - report out if it works or not - by 9/5
-		[ ] Ensure you can run single model code base and know how to use the modeler - by 9/5
+		[X] Install and try to run simple Theano/Keras - report out if it works or not - by 9/5
+		[X] Ensure you can run single model code base and know how to use the modeler - by 9/5
 
 Nanda		[ ] Investigate integration of stacking pipeline with deep learning (partner dev Bernard)  - by 9/9
 		[X] Learn about hyperparamter optimizer - need to choose best tool - by 9/5
