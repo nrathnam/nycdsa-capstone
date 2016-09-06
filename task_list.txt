@@ -17,7 +17,7 @@ Guidelines:
 		--------------------------------------------------------------------------------------------
 All		[ ] Finalize and document all testing results
 		[ ] Review final presentation deck and content
-		[ 2x a day meeting for Sat/Sun to review final materials
+		[ ] 2x a day meeting for Sat/Sun to review final materials
 
 --------------------------------------------------------------------------------------------------------
 2016-09-14
@@ -32,7 +32,6 @@ All		[ ] Start finalizing presentation content
 		Task
 		--------------------------------------------------------------------------------------------
 All 		[ ] Start documenting all model test results
-
 Bernard		[ ] Start compiling and documenting presentation deck
 
 --------------------------------------------------------------------------------------------------------
@@ -59,7 +58,10 @@ Bernard		[ ] Optimize and document Deep Learning hyperparameters - by 9/9
 Nanda		[ ] Writing ensemble/stacking code for Consumer Debt
 		[ ] Inject hyperopt framework into ensemble/stacking code
 		[ ] Genericize ensemble/stacking based on Emma/Trinity's enhancements
+		[ ] Investigate integration of stacking pipeline with deep learning (partner dev Bernard)  - by 9/9
 
+Trinity		[ ] Create hyperperparameter optimizer tool (partner dev with Bernard) - by 9/7
+		
 --------------------------------------------------------------------------------------------------------
 2016-09-02
 --------------------------------------------------------------------------------------------------------
@@ -68,7 +70,7 @@ Nanda		[ ] Writing ensemble/stacking code for Consumer Debt
 Emma		[ ] Implement AUC (and RMSE as a contingent checker) for our local scoring (partner dev Nanda) - by 9/8
 		[ ] Start doing preliminary EDA on dataset in Python (compare results with Trin) - by 9/6
 
-Nanda		[ ] Bake in AUC and RMSE function from Emma to the emsemble and stacking code - by 9/8
+Nanda		[ ] Bake in AUC, R^2, and RMSE function from Emma to the emsemble and stacking code - by 9/8
 
 Trinity		[ ] Start doing preliminary EDA on dataset in R (compare results with Emma - by 9/6
 		[ ] Create the Python imputation function for Knn and Interpolation (partner dev with Bernard) - by 9/7
@@ -83,6 +85,7 @@ Bernard		[X] Enhance code to account for ensemble model parameterized random see
 		[X] Configure GPU to use cuDNN primitives and cnMEM memory manager for high performance - by 9/5
 		[X] Formulate Agile project plan - by 9/5
 		[X] Learn about hyperparamter optimizer - need to choose best tool - by 9/5
+		[X] Start formulating project template for info, progress, accomplishment - by 9/5
 
 Emma		[ ] Enhance Python EDA code to generize for general reuse (partner dev with Trinity) - by 9/6
 		[ ] Learn and enhance single model code (partner dev with Trinity) - by 9/5
@@ -91,13 +94,10 @@ Emma		[ ] Enhance Python EDA code to generize for general reuse (partner dev wit
 		[X] Install and try to run simple Theano/Keras - report out if it works or not - by 9/5
 		[X] Ensure you can run single model code base and know how to use the modeler - by 9/5
 
-Nanda		[ ] Investigate integration of stacking pipeline with deep learning (partner dev Bernard)  - by 9/9
-		[X] Learn about hyperparamter optimizer - need to choose best tool - by 9/5
+Nanda		[X] Learn about hyperparamter optimizer - need to choose best tool - by 9/5
 		[ ] Install and try to run simple Theano/Keras - report out if it works or not - by 9/5
 
 Trinity		[X] Create generized EDA utility using R (partner dev with Venkat) - by 9/6
-		[ ] Start formulating project template for info, progress, accomplishment (work with Bernard) - by 9/5
-		[ ] Create hyperperparameter optimizer tool (partner dev with Bernard) - by 9/7
 		[X] Learn about hyperparamter optimizer - need to choose best tool - by 9/5
 		[X] Install and try to run simple Theano/Keras - report out if it works or not - by 9/5
 		[X] Ensure you can run single model code base and know how to use the modeler - by 9/5
