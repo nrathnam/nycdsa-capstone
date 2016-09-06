@@ -95,10 +95,10 @@ Nanda		[ ] Investigate integration of stacking pipeline with deep learning (part
 		[X] Learn about hyperparamter optimizer - need to choose best tool - by 9/5
 		[ ] Install and try to run simple Theano/Keras - report out if it works or not - by 9/5
 
-Trinity		[ ] Create generized EDA utility using R (partner dev with Venkat) - by 9/6
+Trinity		[X] Create generized EDA utility using R (partner dev with Venkat) - by 9/6
 		[ ] Start formulating project template for info, progress, accomplishment (work with Bernard) - by 9/5
 		[ ] Create hyperperparameter optimizer tool (partner dev with Bernard) - by 9/7
-		[ ] Learn about hyperparamter optimizer - need to choose best tool - by 9/5
-		[ ] Install and try to run simple Theano/Keras - report out if it works or not - by 9/5
-		[ ] Ensure you can run single model code base and know how to use the modeler - by 9/5
+		[X] Learn about hyperparamter optimizer - need to choose best tool - by 9/5
+		[X] Install and try to run simple Theano/Keras - report out if it works or not - by 9/5
+		[X] Ensure you can run single model code base and know how to use the modeler - by 9/5
 <end>
