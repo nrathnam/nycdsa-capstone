@@ -21,14 +21,20 @@ library(psych)
 library(ggpubr)
 library(reshape2)
 
+###Data Summary####
+summary(data)
 
 ####Plot missing value####
 aggr(data)
-
+md.pattern(sleep)
 ####Correltion plot####
 corrplot(cor(data[complete.cases(data),]), method="circle", type = "lower", order="hclust",
          col=colorRampPalette(brewer.pal(11,"Spectral"))(8))
 cor(data)
+
+####Heat map for correlation####
+qplot(x=Var1, y=Var2, data=melt(cor(data[complete.cases(data),], use="p")), fill=value, geom="tile") +
+  scale_fill_gradient2(limits=c(-1, 1))
 ####PCA#####
 fa.parallel(data, #The data in question.
             fa = "pc", #Display the eigenvalues for PCA.

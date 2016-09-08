@@ -79,7 +79,8 @@ Emma		[ ] Implement AUC (and RMSE as a contingent checker) for our local scoring
 Nanda		[ ] Bake in AUC, R^2, and RMSE function from Emma to the emsemble and stacking code - by 9/8
 
 Trinity		[X] Start doing preliminary EDA on dataset in R (compare results with Emma) - by 9/6
-		[ ] Create the Python imputation function for Knn and Interpolation (partner dev with Bernard) - by 9/7
+		[X] Create the Python imputation function for Knn and Interpolation (partner dev with Bernard)
+                    This task is switched to imputing with mean/median etc - by 9/7
 
 --------------------------------------------------------------------------------------------------------
 2016-09-01 
