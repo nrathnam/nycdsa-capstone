@@ -33,50 +33,52 @@ All		[ ] Start finalizing presentation content
 		--------------------------------------------------------------------------------------------
 All 		[ ] Start documenting all model test results
 Bernard		[ ] Start compiling and documenting presentation deck
+Emma		[ ] Formulate strategy for Visualization and UX (work with Bernard) - by 9/9
 
 --------------------------------------------------------------------------------------------------------
 2016-09-10
 --------------------------------------------------------------------------------------------------------
 		Task
 		--------------------------------------------------------------------------------------------
-Trinity		[ ] Start testing using single model
+Trinity		[ ] Complete the linear model feature engineering
+		[X] Complete the outlier feature engineering
 Emma		[ ] Start testing with single model
+		[ ] Complete analysis on Bayesian Optimizers
+		[ ] Fix the Keras (original) code bugs and send updates to Bernard
+
 Nanda		[ ] Start testing with ensemble/stack
+		[ ] Investigate integration of stacking pipeline with deep learning (partner dev Bernard)  - by 9/9
+
 Bernard		[ ] Start testing with Keras Deep Learning
+		[ ] Rearchitect Keras code with more native API functions
+		[ ] Inject hyperopt framework into the Keras Deep Learning code
 
 --------------------------------------------------------------------------------------------------------
 2016-09-06
 --------------------------------------------------------------------------------------------------------
 		Task
 		--------------------------------------------------------------------------------------------
-Bernard		[ ] Optimize and document Deep Learning hyperparameters - by 9/9
-		[ ] Writing Keras Deep Learning code for Consumer Debt
-		[ ] Inject hyperopt framework into the Keras Deep Learning code
-		[ ] Enhance with random seeder on all code
-		[ ] Formulate the strategy and architecture - by 9/8
+Bernard		[X] Optimize and document Deep Learning hyperparameters - by 9/9
+		[X] Writing Keras Deep Learning code for Consumer Debt
+		[X] Enhance with random seeder on all code
+		[X] Formulate the strategy and architecture - by 9/8
 
-Emma		[ ] Enhance Python EDA code to generize for general reuse (partner dev with Trinity) - by 9/6
-		[ ] Formulate strategy for Visualization and UX (work with Bernard) - by 9/9
-		[ ] Enhance and genercize single model code (partner dev with Trinity) - by 9/5
-		[ ] Integrate hyperopt into single model code - by 9/8
+Emma		[X] Enhance and genercize single model code (partner dev with Trinity) - by 9/5
+		[X] Integrate hyperopt into single model code - by 9/8
 		
-Nanda		[ ] Writing ensemble/stacking code for Consumer Debt
-		[ ] Inject hyperopt framework into ensemble/stacking code
-		[ ] Genericize ensemble/stacking based on Emma/Trinity's enhancements
-		[ ] Investigate integration of stacking pipeline with deep learning (partner dev Bernard)  - by 9/9
-		[ ] Install and try to run simple Theano/Keras - report out if it works or not - by 9/5
+Nanda		[X] Writing ensemble/stacking code for Consumer Debt
+		[X] Inject hyperopt framework into ensemble/stacking code
+		[X] Genericize ensemble/stacking based on Emma/Trinity's enhancements
+		[X] Install and try to run simple Theano/Keras - report out if it works or not - by 9/5
 
-Trinity		[ ] Create hyperperparameter optimizer tool (partner dev with Bernard) - by 9/7
-		
 --------------------------------------------------------------------------------------------------------
 2016-09-02
 --------------------------------------------------------------------------------------------------------
 		Task
 		--------------------------------------------------------------------------------------------
-Emma		[ ] Implement AUC (and RMSE as a contingent checker) for our local scoring (partner dev Nanda) - by 9/8
-		[ ] Start doing preliminary EDA on dataset in Python (compare results with Trin) - by 9/6
+Emma		[X] Implement AUC for our local scoring (partner dev Nanda) - by 9/8
 
-Nanda		[ ] Bake in AUC, R^2, and RMSE function from Emma to the emsemble and stacking code - by 9/8
+Nanda		[X] Bake in AUC function from Emma to the emsemble and stacking code - by 9/8
 
 Trinity		[X] Start doing preliminary EDA on dataset in R (compare results with Emma) - by 9/6
 		[X] Create the Python imputation function for Knn and Interpolation (partner dev with Bernard)
