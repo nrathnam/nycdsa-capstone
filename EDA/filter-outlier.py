@@ -2,6 +2,21 @@
 """
 Created on Tue Sep 06 15:41:19 2016
 
+This file deal with the outlier. 
+Here is how it works:
+  Step1: Create three functions--- mad_based_outlier, percentile_based_outlier, std_outlier to identify the outlier
+         based on three different methods. 
+  Step2: Create a function called outlierVote. Whenever pass in the data, we do a vote on it. If more than 2 out 3
+         method say that the data is a outlier, we will apply functions created in step 3 to replace the outlier.
+  Step3: Create functions to handle different cases of outliers for each column.
+         For variables NumofTime30-59DaysPastDue,NumberOfTime6089DaysPastDueNotWorse, NumofTime90DaysPastDue, create function
+         removeSpecificAndPutMedian to replace those cases equal 98 or 96 with median of the column.
+         Create function replaceOutlier to replace outlier with either the median or the minupper(upper bound of the outlier detection).
+         For variable RevolvingUtilizationOfUnsecuredLines,age, DebtRatio, NumberOfDependents, NumberRealEstateLoansOrLines, 
+         replace outlier with minupper.
+         For variable Monthly Income, replace the ourlier with median.
+         
+
 @author: my125
 """
 
@@ -39,10 +54,6 @@ def mad_based_outlier(points, thresh=3.5):
 def percentile_based_outlier(data, threshold=95):
     diff = (100 - threshold) / 2.0
     (minval, maxval) = np.percentile(data.dropna(), [diff, 100 - diff])
-    print "minval"
-    print minval
-    print "maxval"
-    print maxval
     return ((data < minval) | (data > maxval))
 
 
