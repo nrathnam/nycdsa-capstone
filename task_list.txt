@@ -27,12 +27,16 @@ All		[ ] Finalize and document all testing results
 All		[ ] Start finalizing presentation content
 
 --------------------------------------------------------------------------------------------------------
-2016-09-12
+2016-09-13
 --------------------------------------------------------------------------------------------------------
 		Task
 		--------------------------------------------------------------------------------------------
 All 		[ ] Start documenting all model test results
+
 Bernard		[ ] Start compiling and documenting presentation deck
+		[ ] Start testing with Keras Deep Learning
+		[ ] Rearchitect Keras code with more native API functions
+
 Emma		[ ] Formulate strategy for Visualization and UX (work with Bernard) - by 9/9
 
 --------------------------------------------------------------------------------------------------------
@@ -42,16 +46,13 @@ Emma		[ ] Formulate strategy for Visualization and UX (work with Bernard) - by 9
 		--------------------------------------------------------------------------------------------
 Trinity		[ ] Complete the linear model feature engineering
 		[X] Complete the outlier feature engineering
+
 Emma		[X] Start testing with single model
 		[X] Complete analysis on Bayesian Optimizers
 		[X] Fix the Keras (original) code bugs and send updates to Bernard
+		[X] Formulate and test new aggregation models using Voting Classifiers
 
-Nanda		[ ] Start testing with ensemble/stack
-		[ ] Investigate integration of stacking pipeline with deep learning (partner dev Bernard)  - by 9/9
-
-Bernard		[ ] Start testing with Keras Deep Learning
-		[ ] Rearchitect Keras code with more native API functions
-		[ ] Inject hyperopt framework into the Keras Deep Learning code
+Nanda		[X] Start testing with ensemble/stack
 
 --------------------------------------------------------------------------------------------------------
 2016-09-06
