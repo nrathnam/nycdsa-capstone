@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Added by Bernard
+.RData
+.Rhistory
+
 # C extensions
 *.so
 
