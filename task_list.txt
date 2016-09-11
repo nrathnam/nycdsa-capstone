@@ -42,9 +42,9 @@ Emma		[ ] Formulate strategy for Visualization and UX (work with Bernard) - by 9
 		--------------------------------------------------------------------------------------------
 Trinity		[ ] Complete the linear model feature engineering
 		[X] Complete the outlier feature engineering
-Emma		[ ] Start testing with single model
-		[ ] Complete analysis on Bayesian Optimizers
-		[ ] Fix the Keras (original) code bugs and send updates to Bernard
+Emma		[X] Start testing with single model
+		[X] Complete analysis on Bayesian Optimizers
+		[X] Fix the Keras (original) code bugs and send updates to Bernard
 
 Nanda		[ ] Start testing with ensemble/stack
 		[ ] Investigate integration of stacking pipeline with deep learning (partner dev Bernard)  - by 9/9
