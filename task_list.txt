@@ -44,7 +44,7 @@ Emma		[ ] Formulate strategy for Visualization and UX (work with Bernard) - by 9
 --------------------------------------------------------------------------------------------------------
 		Task
 		--------------------------------------------------------------------------------------------
-Trinity		[ ] Complete the linear model feature engineering
+Trinity		[X] Complete the linear model feature engineering
 		[X] Complete the outlier feature engineering
 
 Emma		[X] Start testing with single model
