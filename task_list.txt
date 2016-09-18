@@ -15,29 +15,26 @@ Guidelines:
 --------------------------------------------------------------------------------------------------------
 		Task
 		--------------------------------------------------------------------------------------------
-All		[ ] Finalize and document all testing results
-		[ ] Review final presentation deck and content
-		[ ] 2x a day meeting for Sat/Sun to review final materials
+All		[X] Finalize and document all testing results
+		[X] Review final presentation deck and content
+		[X] 2x a day meeting for Sat/Sun to review final materials
 
 --------------------------------------------------------------------------------------------------------
 2016-09-14
 --------------------------------------------------------------------------------------------------------
 		Task
 		--------------------------------------------------------------------------------------------
-All		[ ] Start finalizing presentation content
+All		[X] Start finalizing presentation content
 
 --------------------------------------------------------------------------------------------------------
 2016-09-13
 --------------------------------------------------------------------------------------------------------
 		Task
 		--------------------------------------------------------------------------------------------
-All 		[ ] Start documenting all model test results
+All 		[X] Start documenting all model test results
 
-Bernard		[ ] Start compiling and documenting presentation deck
-		[ ] Start testing with Keras Deep Learning
-		[ ] Rearchitect Keras code with more native API functions
-
-Emma		[ ] Formulate strategy for Visualization and UX (work with Bernard) - by 9/9
+Bernard		[X] Start compiling and documenting presentation deck
+		[X] Start testing with Keras Deep Learning
 
 --------------------------------------------------------------------------------------------------------
 2016-09-10
